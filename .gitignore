@@ -1,0 +1,7 @@
+.idea/
+/output
+__pycache__/
+*.xlsx
+ikona.ico
+ikona.png
+test.py
